@@ -20,6 +20,12 @@
     transform: scale(1.1);
   }
 
+@media (max-width:629px) {
+    .image__hero{
+      display: none;
+    }
+  }
+
 
   /* Category Card */
 .category__link {
